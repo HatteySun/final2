@@ -1,6 +1,6 @@
 
 import React from "react";
-import { useRef, useEffect } from "react";
+import { useEffect } from "react";
 import * as d3 from "d3";
 
 function xAxis({ xScale, height, width }) {
